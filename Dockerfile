@@ -1,4 +1,4 @@
-# Use DEIF docker image
+# Use Ubuntu 17.10 docker image
 FROM ubuntu:17.10
 
 # Install packages
